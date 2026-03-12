@@ -1,0 +1,6 @@
+module Quest_36_4
+typeinfo appQuest_36_4.qmltypes
+prefer :/qt/qml/Quest_36_4/
+Main 254.0 Main.qml
+depends QtQuick
+
