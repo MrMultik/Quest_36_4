@@ -1,6 +1,0 @@
-module Quest_36_4_3
-typeinfo appQuest_36_4_3.qmltypes
-prefer :/qt/qml/Quest_36_4_3/
-Main 254.0 Main.qml
-depends QtQuick
-

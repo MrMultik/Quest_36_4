@@ -1,9 +1,0 @@
-# ninja log v6
-10	1149	7949335594798227	build.ninja	742a514dbabb1e17
-34	247	7949335597676832	Quest_36_4_autogen/timestamp	8c255b2d22558d77
-34	247	7949335597676832	Quest_36_4_autogen/mocs_compilation.cpp	8c255b2d22558d77
-34	247	7949335597676832	C:/Users/User/Desktop/C/Test/Quest_36_4_3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Quest_36_4_autogen/timestamp	8c255b2d22558d77
-34	247	7949335597676832	C:/Users/User/Desktop/C/Test/Quest_36_4_3/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/Quest_36_4_autogen/mocs_compilation.cpp	8c255b2d22558d77
-251	334	7949335598495183	CMakeFiles/Quest_36_4.dir/Quest_36_4_autogen/mocs_compilation.cpp.obj	d08b6bd7fa984643
-255	2922	7949335598528409	CMakeFiles/Quest_36_4.dir/main.cpp.obj	abe8a9b254f09e63
-2926	3182	7949335625243639	Quest_36_4.exe	cb001e9102bc9d1b
